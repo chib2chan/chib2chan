@@ -15,10 +15,6 @@ I'm learning to code and work clearly! 💻✨
 
 ## 🌃 My stats
 
-![Commit activity](https://github-readme-activity-graph.vercel.app/graph?username=chib2chan&theme=react-dark&borderRadius=10&area=true)
-
----
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=chib2chan&theme=react-dark&border_radius=10)
 
 > 🌃 I'd like to create games where every lantern lights a path to a new ending.
