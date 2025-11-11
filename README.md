@@ -3,7 +3,7 @@ I'm learning to code and work clearly! 💻✨
 
 ![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9wZDhkY2QxMHBybjR6OXdheHlybWhwOWVrN2JtazlteDI0dTN6dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xsaLjLVqVXr3tS/giphy.gif)
 
-## 🛠️ Technologies I'm learning
+## 🌃 Technologies I'm learning
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -13,7 +13,7 @@ I'm learning to code and work clearly! 💻✨
 
 ---
 
-## 📊 My stats
+## 🌃 My stats
 
 ![Commit activity](https://github-readme-activity-graph.vercel.app/graph?username=chib2chan&theme=react-dark&borderRadius=10&area=true)
 
@@ -21,4 +21,4 @@ I'm learning to code and work clearly! 💻✨
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=chib2chan&theme=react-dark&border_radius=10)
 
-> 🏮 Making games where every lantern lights a path to a new ending.
+> 🌃 I'd like to create games where every lantern lights a path to a new ending.
