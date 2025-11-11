@@ -11,10 +11,6 @@ I'm learning to code and work clearly! 💻✨
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+
 ---
-
-## 🌃 My stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=chib2chan&theme=react-dark&border_radius=10)
-
 > 🌃 I'd like to create games where every lantern lights a path to a new ending.
