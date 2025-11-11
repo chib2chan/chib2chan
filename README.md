@@ -1,4 +1,4 @@
-## Hello everyone! I'm Chib-chan! (꒪˙꒳˙꒪)
+## 😸 Hello everyone! I'm Chib-chan! (꒪˙꒳˙꒪)
 I'm learning to code and work clearly! 💻✨
 
 ![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9wZDhkY2QxMHBybjR6OXdheHlybWhwOWVrN2JtazlteDI0dTN6dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xsaLjLVqVXr3tS/giphy.gif)
