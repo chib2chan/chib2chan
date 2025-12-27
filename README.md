@@ -9,3 +9,6 @@ I'm learning to code and work clearly! 💻✨
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+
+Если вы увидели в моем коде какие-то косяки, пишите в тг: @chib_chan
+Ну и если просто поболтать хотите, буду рада)
