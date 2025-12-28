@@ -1,5 +1,5 @@
 ## ‧͙⁺˚*･༓☾　Hello everyone! I'm Chib-chan! 　☽༓･*˚⁺‧͙ 
-I'm learning to code and work clearly! 💻✨
+I'm learning to code and work clearly!
 
 ## Technologies I'm studying 『••✎••』
 
@@ -10,7 +10,6 @@ I'm learning to code and work clearly! 💻✨
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
-## Если вы увидели в моем коде какие-то проблемы, напишите мне в телеграм: 『••✎••』
-@chib_chan
+## Если вы увидели в моем коде какие-то проблемы, напишите мне в телеграм: @chib_chan
 
 Ну и если просто поболтать хотите, буду рада сообщениям)
